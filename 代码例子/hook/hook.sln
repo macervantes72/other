@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hook", "hook\hook.vcxproj", "{0CDE3E19-6624-4FF6-A9DD-5824ACDA0216}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hookApp", "hookApp\hookApp.vcxproj", "{402276C3-C8B5-48A7-8647-CD5B08D187AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDE3E19-6624-4FF6-A9DD-5824ACDA0216}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CDE3E19-6624-4FF6-A9DD-5824ACDA0216}.Debug|Win32.Build.0 = Debug|Win32
+		{0CDE3E19-6624-4FF6-A9DD-5824ACDA0216}.Release|Win32.ActiveCfg = Release|Win32
+		{0CDE3E19-6624-4FF6-A9DD-5824ACDA0216}.Release|Win32.Build.0 = Release|Win32
+		{402276C3-C8B5-48A7-8647-CD5B08D187AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{402276C3-C8B5-48A7-8647-CD5B08D187AB}.Debug|Win32.Build.0 = Debug|Win32
+		{402276C3-C8B5-48A7-8647-CD5B08D187AB}.Release|Win32.ActiveCfg = Release|Win32
+		{402276C3-C8B5-48A7-8647-CD5B08D187AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
